@@ -5,7 +5,7 @@
 * Location: Brgy. Tubigan Florinda, Biñan City, Laguna
 * Email: jlalvarez0611@gmail.com
 
-#Education
+# Education
 * Computer Science undergrad
 
 # Hobby
