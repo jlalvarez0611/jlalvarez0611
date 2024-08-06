@@ -1,6 +1,11 @@
-# Project Title
+# About Me
 
-Simple overview of use/purpose.
+# Personal Information
+
+* Name: John Lloyd A. Alvarez
+* Location: Brgy. Tubigan Florinda, Biñan City, Laguna
+* Contact: 
+  *jlalvarez0611@gmail.com
 
 ## Description
 
