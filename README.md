@@ -1,3 +1,5 @@
+![Picture2](https://github.com/jlalvarez0611/jlalvarez0611/blob/main/profile)
+
 # About Me
 
 # Personal Information
